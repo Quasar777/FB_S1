@@ -16,7 +16,9 @@ If you are developing a production application, we recommend using TypeScript an
 Для запуска приложения проверните следующие махинации:
 
 1) зайдите в папку my-shop
-2) выполните в терминале команду json-server --watch public/data.json --port 3001   
-3) выполните в терминале команду npm run dev
-4) перейдите по адресу http://localhost:5173 
-5) наслдаждайтесь!
+2) выполните в терминале команду npm i   
+3) выполните в терминале команду json-server --watch public/data.json --port 3001   
+4) выполните в терминале команду npm run dev
+5) перейдите по адресу http://localhost:5173 
+6) наслдаждайтесь!
+
